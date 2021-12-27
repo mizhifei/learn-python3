@@ -1,2 +1,2 @@
 # learn-python3
-python3 examples for beginners
+Learn python3 with coding for beginners.
